@@ -1,4 +1,4 @@
-# Covid-19 Tracker App
+# Very Simple Weather App
 
 This Project is a beginner friendly project I built using React. 
 
